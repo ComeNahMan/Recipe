@@ -24,21 +24,21 @@ img.medium{
   margin-bottom: 50px;
 }
 
+
 .column {
   float: left;
   width:30%;
   padding: 10px;
   height: 250px;
+  margin: 9px;
 }
+
+
 .column1 {
   float: left;
+  margin: 9px;
   width:30%;
   padding: 10px;
   height: 250px;
   overflow: scroll;
 }
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
